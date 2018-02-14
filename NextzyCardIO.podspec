@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version          = '6.0.0'
   spec.license          = { type: 'MIT', file: 'LICENSE.md' }
   spec.homepage         = 'https://nextzy.me'
-  s.author           = { 'Thongpak Pongsilathong' => 'thongpak21@gmail.com' }
+  spec.author           = { 'Thongpak Pongsilathong' => 'thongpak21@gmail.com' }
   spec.summary          = 'Credit card scanning for mobile apps'
   spec.social_media_url = 'https://twitter.com/cardio'
   spec.source           = { :git => 'https://github.com/Nextzy/card.io-iOS-SDK.git', :tag => spec.version.to_s }
